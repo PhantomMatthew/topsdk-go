@@ -1,4 +1,4 @@
-module topsdk-go
+module github.com/phantommatthew/topsdk-go
 
 go 1.14
 
